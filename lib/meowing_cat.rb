@@ -6,4 +6,4 @@ class Cat
   end
 end
 maru = Cat.new
-Cat.name = "Maru"
+maru.name = "Maru"
